@@ -71,10 +71,6 @@ I'm still learning but I'm learning pretty fast.
 
 <p>
     <a href="#">
-        <img alt="GraphQL"
-             src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-	</a>
-    <a href="#">
         <img alt="React"
              src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=laravel&logoColor=61DAFB"/>
 	</a>
