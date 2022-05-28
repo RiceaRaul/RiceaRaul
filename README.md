@@ -5,7 +5,7 @@ I am a 1st year computer science student at Ovidius University in Constanta 🌊
 I'm still learning but I'm learning pretty fast.
 
 ## 🙋‍♂️ Connect with me
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RiceaRaul)
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
     <a href="https://github.com/RiceaRaul">
