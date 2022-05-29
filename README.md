@@ -1,4 +1,4 @@
-Hey, I'm Ricea Ion-Raul.🙋‍
+# Hey, I'm Ricea Ion Raul.🙋‍
 
 I am a 1st year computer science student at Ovidius University in Constanta 🌊. My passion is backend and I want to continue accessing it.
 
