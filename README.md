@@ -159,9 +159,6 @@ I'm still learning but I'm learning pretty fast.
     <a href="#">
         <img alt="Sublime Text"
              src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
-   <a href="#">
-        <img alt="Sublime Text"
-             src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
 </p>
 
 ### 💻 My favorite operating systems
