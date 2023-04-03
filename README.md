@@ -52,9 +52,6 @@ I'm still learning but I'm learning pretty fast.
         <img alt="C++"
              src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 	</a>
-    <a href="#">
-        <img alt="SQL"
-             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
 	</a>
     <a href="#">
         <img alt="C#"
@@ -117,6 +114,9 @@ I'm still learning but I'm learning pretty fast.
 <a href="#">
         <img alt="Mongo"
              src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="#">
+        <img alt="SQL"
+             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" /> 
 </p>
 
 ### ☁ Cloud hosting
