@@ -114,14 +114,7 @@ I'm still learning but I'm learning pretty fast.
         <img alt="MySQL"
              src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 	</a>
-    <a href="#">
-        <img alt="Oracle"
-             src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
-    <a href="#">
-        <img alt="SQLite"
-             src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  
-  <a href="#">
+<a href="#">
         <img alt="Mongo"
              src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 </p>
