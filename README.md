@@ -1,4 +1,7 @@
-# Hey, I'm Ricea Ion Raul.🙋‍
+
+<p align="center">
+  <a href="https://app.daily.dev/raul202"><img src="https://api.daily.dev/devcards/v2/9WUdQ6K98Pt6qbBoUuu17.png?type=wide&r=sgz" width="652" alt="Ricea Raul's Dev Card"/></a>
+</p>
 
 I am a 1st year computer science student at Ovidius University in Constanta 🌊. My passion is backend and I want to continue accessing it.
 
